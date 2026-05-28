@@ -7,7 +7,11 @@ average
 highest marks
 lowest marks
 grade
+
+
 Concepts
+
+
 arrays
 loops
 comparison logic
